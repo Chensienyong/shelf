@@ -1,0 +1,23 @@
+* Shelf
+A list of blog posts, videos, exercises on various topics.
+
+** Productivity
+ * [[https://www.youtube.com/watch?v=wIvHkaV6Ri8][John Carmack on Work-Life Balance | John Carmack]]
+   Work-Life balance. Throw beyond yourself others think not
+   reasonable. As long as you introduce great work/valuable work.
+
+** Engineering
+ * [[https://www.youtube.com/watch?v=dSCBCk4xVa0][Deep Thoughts Engineering Speaker Series | John Carmack]]
+   Ideas come, Ideas go. Build the prototype -> Knock your idea down.
+   Maybe your idea is probably not that great. An idea is worth a
+   bottle of scotch, even a writer is still a matter of execution
+   than the original of core idea.
+
+** Software Development
+*** TDD
+ * [[https://www.youtube.com/watch?v=a6oP24CSdUg][TDD for those who don't need it - GopherCon SG 2017 | Chew Choon Keat]]
+   For the longest time, I didn’t write tests. Writing tests is a chore,
+   a waste of time, and doesn’t GTD. The snobbery of the test community
+   only turned me off even more; discouraging good developers from trying TDD.
+   Now, I write tests first. This talk explains what clicked for me
+   (and maybe it will for you too)
