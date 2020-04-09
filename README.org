@@ -13,6 +13,13 @@ A list of blog posts, videos, exercises on various topics.
    bottle of scotch, even a writer is still a matter of execution
    than the original of core idea.
 
+** Self Help
+ * [[https://www.youtube.com/watch?v=fKy7ljRr0AA][May 1, 1969: Fred Rogers testifies before the Senate Subcommittee on Communications]]
+   Fred Rogers talk to Senator regarding the cut of half the budget
+   television that he hosted and proceed to talk and convince
+   not only Senator, but all over the world, that feeling is
+   important.
+
 ** Software Development
 *** TDD
  * [[https://www.youtube.com/watch?v=a6oP24CSdUg][TDD for those who don't need it - GopherCon SG 2017 | Chew Choon Keat]]
