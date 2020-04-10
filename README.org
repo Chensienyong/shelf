@@ -12,6 +12,11 @@ A list of blog posts, videos, exercises on various topics.
    Maybe your idea is probably not that great. An idea is worth a
    bottle of scotch, even a writer is still a matter of execution
    than the original of core idea.
+ * [[https://www.youtube.com/watch?v=f84n5oFoZBc][Hammock Driven Development | Rich Hickey]]
+   Philosophical talk with the topic of keep mentioning the problems
+   and give it a night so that brain keep functioning and thinking
+   about those and figuring the solution to tomorrow when waking
+   up.
 
 ** Self Help
  * [[https://www.youtube.com/watch?v=fKy7ljRr0AA][May 1, 1969: Fred Rogers testifies before the Senate Subcommittee on Communications]]
@@ -19,6 +24,8 @@ A list of blog posts, videos, exercises on various topics.
    television that he hosted and proceed to talk and convince
    not only Senator, but all over the world, that feeling is
    important.
+ * [[https://medium.com/personal-growth/make-life-easier-on-yourself-by-accepting-good-enough-accept-the-lack-of-perfect-5bac47c98ec8][Make Life easier on yourself by accepting good enough]]
+   Good enough is better than chasing for perfection.
 
 ** Software Development
 *** TDD
