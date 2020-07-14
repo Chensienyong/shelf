@@ -38,4 +38,6 @@ A list of blog posts, videos, exercises on various topics.
 *** Refactoring
  * [[https://www.youtube.com/watch?v=6wDoopbtEqk][Software Design in the 21st Century - Martin Fowler]]
    Martin Fowler discuss the book he publish called Refactoring
+*** General
+ * [[https://www.youtube.com/watch?v=FyCYva9DhsI][Clean Coders Hate What Happens to Your Code When You Use These Enterprise Programming Tricks]]
 
